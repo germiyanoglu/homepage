@@ -1,0 +1,45 @@
+/* Main CSS File */
+
+body {
+  background: #F4F5F6;
+  margin: 40px 20px 20px 20px;
+}
+
+header {
+	color: #333;
+	line-height: .7em;
+}
+
+header h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+header p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+}
+
+section {
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: .9em;
+}
+
+address {
+    display: block;
+    font-style: normal;
+    font-size: .8em;
+    line-height: 1.5em;
+} 
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+
+} 
+
+hr.style-six { border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
